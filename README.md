@@ -8,22 +8,29 @@ Kittygram — социальная сеть для обмена фотограф
 ___
 
 ## Технологии, использованные при разработке
-- язык *Python*
-- фреймворк *Django*
-- контейнеризация - *Docker*
-- автоматизация - *Github Actions*
-- WSGI-сервер *Gunicorn*
-- веб-сервер *Nginx*
-- база данных *PostgreSQL*
+[![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=092E20&labelColor=white
+)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=092E20&labelColor=white
+)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&labelColor=white
+)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&labelColor=white
+)](https://www.docker.com/)
+[![Docker-compose](https://img.shields.io/badge/Docker_compose-2496ED?style=plastic&logo=docker&labelColor=white
+)](https://docs.docker.com/compose/)
+[![Nginx](https://img.shields.io/badge/NGINX-009639?style=plastic&logo=nginx&logoColor=%23009639&labelColor=white
+)](https://nginx.org/ru/)
+[![gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=gunicorn&labelColor=white
+)](https://gunicorn.org/)
+[![GitHub%20Actions](https://img.shields.io/badge/GitHub_actions-2088FF?style=plastic&logo=githubactions&labelColor=white
+)](https://github.com/features/actions)
 ___
 
 ## Установка
 1. Клонировать репозиторий и перейти в него в командной строке:
 ```
-git clone https://github.com/tetrapack55/kittygram_final
-```
-```
-cd kittygram_final
+git clone https://github.com/tetrapack55/kittygram
+cd kittygram
 ```
 2. В корне проекта создать файл .env, указываем следующие переменные со своими данными
 ```
@@ -137,7 +144,7 @@ POST /api/achievements/
 
 ## Автор проекта
 Олег Кирьянов
-```
-https://github.com/tetrapack55
-xagatgx@yandex.ru
-```
+
+[github](https://github.com/tetrapack55)
+
+[e-mail](xagatgx@yandex.ru)
