@@ -147,4 +147,4 @@ POST /api/achievements/
 
 [github](https://github.com/tetrapack55)
 
-[e-mail](xagatgx@yandex.ru)
+[e-mail](mailto:devilindespair55@gmail.com)
